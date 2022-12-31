@@ -76,6 +76,22 @@ type="tal" מספרים
 
 action = פעולה
 
+value = ערך
+
+name="" = שם האובייקט
+
 method="" = שינוי שיטה שיגור
 
+<select> = בחירה 
 
+required = נדרש
+
+type="checkbox" = תיבת סימון
+
+option = אופציה
+
+type="radio" = כל התשובות חשופות למשתמש
+
+textarea = אזור טקסט
+
+placeholder = עזרה למשתמש מה לכתוב 
