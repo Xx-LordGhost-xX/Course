@@ -1,0 +1,40 @@
+Shift + ! נותן את הבסיס של HTML5
+
+H1= כותרת ראשית H2= כותרת משנית H3= כותרת שלישית H4= כותרת רביעית
+
+Lorem= כותב מילים אוטומטי 
+
+strong= מגדיש מילים
+
+em= גופן נתוי
+
+del= קו על המילים
+
+Alt + Z= מסדר את השורות 
+
+לינק פנימי: <a id="top" href="basic.html">click here</a> to go to basic
+
+לינק חיצוני: <a href="https://www.google.com/" target="_blank"> click here to go to googel site</a>
+
+פתיחה חדשה של דף: target="_blank"
+
+id="top"= הוספת אוגן
+
+href="#top"= מחזיר אותך לחלק העליון של הדף (אוגן)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
