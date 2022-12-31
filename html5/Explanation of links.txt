@@ -12,12 +12,6 @@ Alt+ Z = מסדר את השורות
 
 Ctrl + . = להוסיף יערות   <!-- -->
 
-                לינקים 
-
-לינק פנימי: <a id="top" href="basic.html">click here</a> to go to basic
-
-לינק חיצוני: <a href="https://www.google.com/" target="_blank"> click here to go to googel site</a>
-
                 כתיבה 
 
 H1 = כותרת ראשית 
