@@ -1,4 +1,24 @@
+             קיצורים
+
 Shift + ! = נותן את הבסיס של HTML5
+
+Shift + Alt + העתקה כלפי מטה = חץ למטה
+
+Shift + Alt + F = מסדר את הקוד
+
+Ctrl + space = מראה את הרשימה 
+
+Alt+ Z = מסדר את השורות 
+
+Ctrl + . = להוסיף יערות   <!-- -->
+
+                לינקים 
+
+לינק פנימי: <a id="top" href="basic.html">click here</a> to go to basic
+
+לינק חיצוני: <a href="https://www.google.com/" target="_blank"> click here to go to googel site</a>
+
+                כתיבה 
 
 H1 = כותרת ראשית 
 
@@ -16,12 +36,6 @@ em = גופן נתוי
 
 del = קו על המילים
 
-Alt + Z = מסדר את השורות 
-
-לינק פנימי: <a id="top" href="basic.html">click here</a> to go to basic
-
-לינק חיצוני: <a href="https://www.google.com/" target="_blank"> click here to go to googel site</a>
-
 פתיחה חדשה של דף: target="_blank"
 
 id="top" = הוספת אוגן
@@ -34,16 +48,14 @@ href="#top"= מחזיר אותך לחלק העליון של הדף (אוגן)
 
 <li> = בתוך הרשימות מסודרת/לא מסודרת
 
-Shift + Alt + חץ למטה = העתקה כלפי מטה
+img src="" = הוספת תמונות 
 
-Shift + Alt + F = מסדר את הקוד
+width="" = רוחב של התמונה
 
-Ctrl + . = להוסיף יערות   <!-- -->
+height="" = גובה של התמונה
 
+<br> = להוריד שורה
 
+alt="" = תאור לתמונה "לא רואים אותו באתר זה בשביל העיוורים יותר" 
 
-
-
-
-
-
+<a> = 
