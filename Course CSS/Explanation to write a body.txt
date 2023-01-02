@@ -88,6 +88,23 @@ style="color" = צבע הכיתוב
 
 style="background:" = צבע הרקע של הכיתוב
 
+<link rel="stylesheet" href=""> = קישור קובץ חיצוני
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

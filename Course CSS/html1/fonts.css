@@ -1,0 +1,14 @@
+h2 {
+    color: green;
+    background: orange;
+}
+
+/* נקודה יוצרת קלאס ולא תגית */
+.title3a {
+    background: red;
+}
+
+/* ולא תגיתID סולמית יוצרת */
+#title3b {
+    background: aqua;
+}
