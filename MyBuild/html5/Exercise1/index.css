@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background: white;
+    margin: 0;
+    color: white;
+}
+
+.container {
+    width: 700px;
+    background: skyblue;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.box1 {
+    height: 150px;
+    background: green;
+    margin-bottom: 16px;
+    border: 8px solid red;
+    padding: 16px;
+}
+
+.box2 {
+    height: 150px;
+    background: gold;
+    margin-bottom: 16px;
+    border: 8px dashed red;
+    padding: 16px;
+}
+
+.box3 {
+    height: 150px;
+    background: black;
+    padding: 16px;
+}
