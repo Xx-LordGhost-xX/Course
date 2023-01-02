@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: silver;
+
+    /* דואג שנוכל להשתמש בשפות מימין לשמואל */
+    direction: rtl;
+}
+
+.container {
+    /* רוחב הדיב */
+    width: 600px;
+    background: white;
+    /* שוליים פנימיים */
+    padding: 8px;
+    /* ממרכז לאמצע */
+    margin: 0 auto;
+}
+
+.pic1 {
+    float: left;
+    /* שוליים חיצונים מימין */
+    margin-right: 8px;
+    border: 2px solid red;
+}
+
+.box1{
+    width: 50%;
+    height: 150px;
+    background: yellow;
+    /* Iem = 16px */
+    font-size: 1.5em;
+}
