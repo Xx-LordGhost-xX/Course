@@ -14,14 +14,14 @@ body {
 .strip {
     background: skyblue;
     min-height: 500px;
-    background-image: url(images/1.jpg);
+    background-image: url(images/2.jpg);
     background-size: cover;
     background-position: center center;
-    background-attachment: fixed;
+    /* כמו בשיעור
+    background-attachment: fixed; */
 }
 
 .article {
     background: yellow;
     min-height: 600px;
-    
 }
