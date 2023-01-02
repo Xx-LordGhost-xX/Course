@@ -50,5 +50,12 @@ float = לצוף ( הטקסט עוטף אותו)
 
 direction = דואג שנוכל להשתמש בשפות מימין לשמואל כגון עיברית וערבית
 
+background-image: url(); = הוספת תמונה
 
+background-size: = גודל התמונה
 
+background-position: = מיקום תמונה
+
+background-attachment: =  משאיר את התונה באותו מקום שגוללים 
+
+background-repeat: no-repeat; = נותן את הגודל של התמונה המקורית

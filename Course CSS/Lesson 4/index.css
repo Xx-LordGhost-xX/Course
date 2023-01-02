@@ -1,0 +1,27 @@
+body {
+    background: silver;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: white;
+    padding: 8px;
+}
+
+.strip {
+    background: skyblue;
+    min-height: 500px;
+    background-image: url(images/1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.article {
+    background: yellow;
+    min-height: 600px;
+    
+}
