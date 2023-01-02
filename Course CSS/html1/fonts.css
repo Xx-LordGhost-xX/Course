@@ -1,14 +1,27 @@
+h1 {
+    color: red;
+}
+
 h2 {
-    color: green;
-    background: orange;
+        /* סוג גופן */
+    font-family: sans-serif;
+        /* EM גודל גופן בהמשך נשתמש ביחידת */
+    font-size: 60px;
+        /* אם הטקסט יהיה מוגדש או לא  */
+    font-weight: normal;
+    font-style: italic;
 }
 
-/* נקודה יוצרת קלאס ולא תגית */
-.title3a {
-    background: red;
+a{
+    /* מוריד קו תחתי ללינקים */
+    text-decoration: none;
+    color: red;
 }
 
-/* ולא תגיתID סולמית יוצרת */
-#title3b {
-    background: aqua;
+.para1 {
+    /* ישור טקסט */
+    /*  text-align: justify; */
+    text-align: center;
+
+    text-decoration: underline;
 }

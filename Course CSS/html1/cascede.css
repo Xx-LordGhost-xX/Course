@@ -1,0 +1,25 @@
+body{
+    background: silver;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 800px;
+    background: white;
+    /* שוליים פנימיים */
+    padding: 8px;
+     /* גורם לדיב להתרכז לאמצע */
+     margin:0 auto;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+.title3a{
+    color: red;
+}
+
+h3{
+    color: green;
+}

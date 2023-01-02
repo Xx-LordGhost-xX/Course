@@ -90,9 +90,9 @@ style="background:" = צבע הרקע של הכיתוב
 
 <link rel="stylesheet" href=""> = קישור קובץ חיצוני
 
+href="#" = כשאין באמת לינק  
 
-
-
+<div> = סוג של תיבה
 
 
 
