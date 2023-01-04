@@ -1,20 +1,3 @@
- 
-                                                               תגיות
-
-<!DOCTYPE html> = מראה לפדפן איזה שפה לקרוא
-
-<html lang="en"> = אומר איזה שפה אתם 
-
-<meta charset="UTF-8"> = איזה דפדפים זה יקלוט לכם 
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge"> = דואגת שתגיות חדשות היו גם בדפדפנים ישנים 
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> = איזה מכשירים זה יתמוך 
-
-<title>Document</title> = שם האתר 
-
-------------------------------------------------------------------------------------------
-
 h1 = כותרת ראשית
 
 h2 = כותרת משנית
