@@ -1,0 +1,115 @@
+* {
+    /* מרחיב אץ הבורדר והפינג כלפי פנים ולא כלפי חוץ כברית מחדל */
+    box-sizing: border-box;
+}
+
+body {
+    background: silver;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container-fluid {
+    width: 100%;
+    padding: 0 16px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+header {
+    min-height: 40px;
+    background: black;
+    color: white;
+}
+
+header .container {
+    padding: 8px;
+    display: flex;
+    align-items: center;
+}
+
+header h2 {
+    margin-right: 16px;
+    color: gold;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0 12px;
+}
+
+header nav a:hover {
+    color: gold;
+}
+
+.strip {
+    min-height: 150px;
+    background: skyblue;
+    color: blue;
+}
+
+main {
+    min-height: 200px;
+    background: black;
+    color: white;
+}
+
+main .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+main .box_top {
+    width: 33.3333%;
+    border: 1px solid white;
+    min-height: 100px;
+}
+
+main .box_bottom {
+    width: 48%;
+    border: 1px solid gold;
+    min-height: 100px;
+}
+
+.box1 {
+    background: red;
+    color: white;
+}
+
+.box2 {
+    background: gold;
+    color: red;
+}
+
+.box3 {
+    background: white;
+    color: black;
+}
+
+.box4 {
+    background: blue;
+    color: gold;
+}
+
+.box5 {
+    background: orange;
+    color: green;
+}
+
+footer {
+    min-height: 40px;
+    background: gray;
+    color: white;
+}
