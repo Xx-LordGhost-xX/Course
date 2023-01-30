@@ -1,0 +1,25 @@
+; = סוף משפט
+
+"" = ציטוט
+
+Console.WriteLine(); = הדפסת למסך
+
+System.Threading.Thread.Sleep(); = פרידה ללכת לישון ולהתעורר בזמן שנגדיר
+
+Console.Clear(); = מנקה את הכל 
+
+Console.ReadLine(); = דורשת מהמשתמש לרשום 
+
+bool = נכון או לא נכון (0 נכון 1 לא נכון)
+
+int = מספר
+
+string = מילים
+
+
+
+
+
+
+
+
