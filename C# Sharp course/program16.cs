@@ -11,11 +11,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            bool mishtane = 5 == 5;
-            Console.WriteLine(mishtane);
+            int x = 0;
+            while (x <20)
+            {
+                x = x + 1;
+                x++; 
+            }
+            for(int i=0;i< 10; i++)
+            {
 
-            bool mishtane1 = 5 == 6;
-            Console.WriteLine(mishtane1);
+            } 
         }
     }
 }

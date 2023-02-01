@@ -11,11 +11,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            bool mishtane = 5 == 5;
-            Console.WriteLine(mishtane);
-
-            bool mishtane1 = 5 == 6;
-            Console.WriteLine(mishtane1);
+            string password = Console.ReadLine();
+          int password1=  int.Parse(Console.ReadLine());
         }
     }
 }
